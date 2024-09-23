@@ -1,5 +1,13 @@
 # @solid-ui/cli
 
+## 0.6.9
+
+### Patch Changes
+
+- [`9f688f6`](https://github.com/sek-consulting/solid-ui/commit/9f688f61c1193dfcd4648e2fe6e0f2866c4cc502) Thanks [@sek-consulting](https://github.com/sek-consulting)! - fix(number-field): fixed blinking focus ring problems (#126)
+
+- [`48b9b23`](https://github.com/sek-consulting/solid-ui/commit/48b9b238ad4f52f01bf7d17ffdbc115e03cfd66d) Thanks [@sek-consulting](https://github.com/sek-consulting)! - add option for custom prev/next children
+
 ## 0.6.8
 
 ### Patch Changes
